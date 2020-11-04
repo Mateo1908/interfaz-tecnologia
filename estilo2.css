@@ -1,0 +1,32 @@
+.hola
+{
+	height: 500px;
+	width: 900px;
+	margin-top: 50px;
+	margin-left: 100px;
+	background-color: red;
+	border-radius: 20px;
+}
+
+.t
+{
+	height: 300px;
+	width: 850px;
+	margin-top: -450px;
+	margin-left: 120px;
+	border-radius: 150px;
+	background-color: green;
+}
+
+.letra
+{
+	position: relative;
+	top: 20px;
+	left: 100px;
+}
+
+.boton2
+{
+	margin-left: 500px;
+	margin-top: 50px;
+}

@@ -1,0 +1,45 @@
+.bienvenido
+{
+	height: 720px;
+	width: 1080px;
+	margin-top: 50px;
+	margin-left: 100px;
+	background-color: #E72E1F;
+	border-radius: 20px;
+}
+
+.b
+{
+	position: relative;
+	height: 300px;
+	width: 850px;
+	margin-top: -450px;
+	margin-left: 120px;
+	border-radius: 150px;
+	background-color: #0ED234;
+	left: 100px; 
+	top: -240px;
+    background: url(animacion.gif);
+    height: 480px;
+    width: 800px;
+	 
+}
+
+
+
+
+
+.boton1
+{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 580px;
+	top: -270px;
+
+}
+
+.t
+{
+	top: 10px;
+	
+}
